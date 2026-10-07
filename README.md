@@ -58,5 +58,5 @@ Jogo 2D feito no GameMaker, com a premissa de ter um mapa 2D dinâmico.
 ## Contato
 
 - Discord: [Ozzy_arte]
-- E-mail: []
-- GitHub: [seu usuário]
+- E-mail: [Ozzydraco.oficial@gmail.com]
+- GitHub: [Ozzy-C0]
